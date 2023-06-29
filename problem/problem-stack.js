@@ -1,0 +1,3 @@
+/**
+ * Stack data structure.
+ */

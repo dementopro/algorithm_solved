@@ -1,0 +1,3 @@
+/**
+ * Queue data structure.
+ */
